@@ -1,2 +1,2 @@
-# Solução dos exercícios de Métodos Numericos Para Fisica
- Solução de exercícios do curso de **Métodos Numéricos para Física** na UFC (*Python*)
+# Métodos Numéricos para Física
+ Aqui você encontra a solução de exercícios do curso de **Métodos Numéricos para Física** ofertado pela UFC.
